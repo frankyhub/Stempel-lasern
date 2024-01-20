@@ -54,7 +54,7 @@ Das Bitmap markieren und mit "Pfad Bitmap nachzeichnen" oder mit  Umschalt  +  A
 
 Wenn wir jetzt in das Zeichnen-Fenster wechseln, sehen wir das Bitmap und die vektorisierte Grafik.
 
-![Bild3](https://github.com/frankyhub/Stempel-lasern/blob/main/pic/bild2.png)
+![Bild3](https://github.com/frankyhub/Stempel-lasern/blob/main/pic/bild4.png)
 
 Wählen wir jetzt das "Bearbeiten der Knoten" Werkzeug aus oder betätigen die  N  -Taste, können wir die Pfade bearbeiten oder die Vektor-Grafik speichen und in andere Programme (Lightburn, Easy Cut Studio...) importieren.
 
