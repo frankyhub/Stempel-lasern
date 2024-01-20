@@ -49,19 +49,12 @@ Das Bitmap wird geladen:
 
 Das Bitmap markieren und mit "Pfad Bitmap nachzeichnen" oder mit  Umschalt  +  Alt  +  B  -Taste das Fenster Bitmap nachzeichnen öffnen.
 
-![Bild3](https://github.com/frankyhub/Stempel-lasern/blob/main/pic/bild3.png)
+![Bild2](https://github.com/frankyhub/Stempel-lasern/blob/main/pic/bild2.png)
 
-Wenn wir den "Aktualisieren-Button" betätigen wird die Vorschau geladen.
-
-!(Bild4)[bild4.png)
-
-Wir können jetzt den Helligkeitsschwellwert optimieren und ggf. das Bitmap invertieren. Nach betätigen des "Anwenden" Buttons wird die Ansicht aktualisiert.
-
-!(Bild5)[bild5.png)
 
 Wenn wir jetzt in das Zeichnen-Fenster wechseln, sehen wir das Bitmap und die vektorisierte Grafik.
 
-!(Bild6)[bild6.png)
+![Bild3](https://github.com/frankyhub/Stempel-lasern/blob/main/pic/bild2.png)
 
 Wählen wir jetzt das "Bearbeiten der Knoten" Werkzeug aus oder betätigen die  N  -Taste, können wir die Pfade bearbeiten oder die Vektor-Grafik speichen und in andere Programme (Lightburn, Easy Cut Studio...) importieren.
 
