@@ -40,7 +40,7 @@ Mit dem Vektor-Zeichenprogramm Inkscape wird die Stempelvorlage erstellt, die z.
 
 Möchte man einen Stempel mit einem Bild erstellen, wird das Bild in Inkscape importiert. 
 Inkscape beinhaltet ein Werkzeug, mit dem sich ein Bitmap-Bild in ein Pfad-Element umwandeln lässt. Generell kann man sagen, je höher der Anteil dunkler Pixel im Bitmap ist, desto höher ist die Vektorisierungsleistung.
-Importiere das Bild, das du vektorisieren willst mit "Datei + Impotieren" und betästige mit "Öffnen".
+Importiere das Bild, das du vektorisieren willst mit "Datei + Impotieren" und bestätige mit "Öffnen".
 Die Grundeinstellungen können mit OK übernommen werden.
 
 ![bild1.png](https://github.com/frankyhub/Stempel-lasern/blob/main/pic/bild1.png)
