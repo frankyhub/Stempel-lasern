@@ -71,7 +71,7 @@ Wir stellen die Cut- und die Gravur Ebene ein.
 
 ![lk2](https://github.com/frankyhub/Stempel-lasern/blob/main/pic/lk2.png)
 
-Mit der Vorschau lässt sich das Ergebnis vorab überprüfen.
+Mit der Vorschau lässt sich das Ergebnis vorab überprüfen. Die dunkelen Flächen werden gelasert.
 
 ![lk3](https://github.com/frankyhub/Stempel-lasern/blob/main/pic/lk3.png)
 
