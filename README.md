@@ -17,6 +17,8 @@ Inhaltsverzeichnis
 
 ## Einleitung
 Ein Stempel kann mit dem Zeichenprogramm Inkscape, einem Lasercutter und einem 3D-Drucker selbst hergestellt werden.
+Inkscape kann Texte und Grafiken verarbeiten. Einen Stempel mit Text und einem Logo zu erstellen sind so möglich. 
+Im nachfolgenden Beispiel erstellen wir erst eine Vorlage mit Text und im 2. Beispiel eine Vorlage mit einer Grafik.
 
 ---
 
