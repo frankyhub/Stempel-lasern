@@ -63,7 +63,7 @@ Wählen wir jetzt das "Bearbeiten der Knoten" Werkzeug aus oder betätigen die  
 ---
 
 ## Lasercutter
-Jetzt impotieren wir die Vektorgrafik in die Lasercutter Software **Lightburn**. In Lightburn werden jetzt die Ebenen Schneiden und Gravieren festgelegt mit den jeweiligen Parameter Geschwindigkeit und Leistung festgelegt. 
+Jetzt impotieren wir die Vektorgrafik in die Lasercutter Software **Lightburn**. In Lightburn werden jetzt die Ebenen Schneiden und Gravieren mit den jeweiligen Parameter Geschwindigkeit und Leistung festgelegt. 
 
 ![lk1](https://github.com/frankyhub/Stempel-lasern/blob/main/pic/lk1.png)
 
