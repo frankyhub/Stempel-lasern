@@ -37,6 +37,8 @@ Mit dem Vektor-Zeichenprogramm Inkscape wird die Stempelvorlage erstellt, die z.
 9. Mit "G=100, L=45 und Modus Füllen" lasern.
 10. Stempel-Vorschau in LightBurn:
 
+    
+
 ![stempel1.png](https://github.com/frankyhub/Stempel-lasern/blob/main/pic/stempel1.png)
 
 Möchte man einen Stempel mit einem Bild erstellen, wird das Bild in Inkscape importiert. 
