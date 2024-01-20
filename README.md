@@ -45,7 +45,7 @@ Die Grundeinstellungen können mit OK übernommen werden.
 
 Das Bitmap wird geladen:
 
-![bild2.png](https://github.com/frankyhub/Stempel-lasern/blob/main/pic/bild2.png)
+![bild2.png](https://github.com/frankyhub/Stempel-lasern/blob/main/pic/bild2a.png))
 
 Das Bitmap markieren und mit "Pfad Bitmap nachzeichnen" oder mit  Umschalt  +  Alt  +  B  -Taste das Fenster Bitmap nachzeichnen öffnen.
 
