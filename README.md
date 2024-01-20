@@ -1,4 +1,4 @@
-<a name="oben"></a 
+<a name="oben"></a>
 # Stempel lasern
 
 Inhaltsverzeichnis
