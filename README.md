@@ -76,7 +76,7 @@ Mit der Vorschau lässt sich das Ergebnis vorab überprüfen.
 ---
 
 ## 3D-Druck
-Mit einem 3D-Drucker erstellen wir den Stempelkörper. Mit dem Programm **Openscad** stehen uns 3 unterschiedliche Stempelformen zur Verfügung:
+Mit einem 3D-Drucker erstellen wir den Stempelkörper. Mit dem **Openscad** Programm  "Stempel_Auswahl.scad" stehen uns 3 unterschiedliche Stempelformen zur Verfügung:
 
 ![3D](https://github.com/frankyhub/Stempel-lasern/blob/main/pic/3d.png)
 
