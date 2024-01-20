@@ -4,7 +4,7 @@ Inhaltsverzeichnis
 
 [Einleitung](https://github.com/frankyhub/Stempel-lasern/blob/main/README.md#Einleitung)
 
-[Inkscape](https://github.com/frankyhub/Stempel-lasern/eblob/main/README.md#Inkscape)
+[Inkscape](https://github.com/frankyhub/Stempel-lasern/blob/main/README.md#Inkscape)
 
 [Lasercutter](https://github.com/frankyhub/Stempel-lasern/blob/main/README.md#Lasercutter)
 
