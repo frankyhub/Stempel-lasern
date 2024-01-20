@@ -40,26 +40,43 @@ Mit dem Vektor-Zeichenprogramm Inkscape wird die Stempelvorlage erstellt, die z.
    <br>  
 
 ![stempel1.png](https://github.com/frankyhub/Stempel-lasern/blob/main/pic/stempel1.png)
+<br>
 
 Möchte man einen Stempel mit einem Bild erstellen, wird das Bild in Inkscape importiert. 
 Inkscape beinhaltet ein Werkzeug, mit dem sich ein Bitmap-Bild in ein Pfad-Element umwandeln lässt. Generell kann man sagen, je höher der Anteil dunkler Pixel im Bitmap ist, desto höher ist die Vektorisierungsleistung.
 Importiere das Bild, das du vektorisieren willst mit "Datei + Impotieren" und bestätige mit "Öffnen".
 Die Grundeinstellungen können mit OK übernommen werden.
 
+<br>
+
 ![bild1.png](https://github.com/frankyhub/Stempel-lasern/blob/main/pic/bild1.png)
+
+<br>
 
 Das Bitmap wird geladen:
 
+<br>
+
 ![bild2.png](https://github.com/frankyhub/Stempel-lasern/blob/main/pic/bild2a.png))
+
+<br>
 
 Das Bitmap markieren und mit "Pfad Bitmap nachzeichnen" oder mit  Umschalt  +  Alt  +  B  -Taste das Fenster Bitmap nachzeichnen öffnen.
 
+<br>
+
 ![Bild2](https://github.com/frankyhub/Stempel-lasern/blob/main/pic/bild2.png)
+
+<br>
 
 
 Wenn wir jetzt in das Zeichnen-Fenster wechseln, sehen wir das Bitmap und die vektorisierte Grafik.
 
+<br>
+
 ![Bild3](https://github.com/frankyhub/Stempel-lasern/blob/main/pic/bild4.png)
+
+<br>
 
 Wählen wir jetzt das "Bearbeiten der Knoten" Werkzeug aus oder betätigen die  N  -Taste, können wir die Pfade bearbeiten oder die Vektor-Grafik speichen und in andere Programme (Lightburn, Easy Cut Studio...) importieren.
 
@@ -68,36 +85,65 @@ Wählen wir jetzt das "Bearbeiten der Knoten" Werkzeug aus oder betätigen die  
 ## Lasercutter
 Jetzt impotieren wir die Vektorgrafik in die Lasercutter Software **Lightburn**. In Lightburn werden jetzt die Ebenen Schneiden und Gravieren mit den jeweiligen Parameter Geschwindigkeit und Leistung festgelegt. 
 
+<br>
+
 ![lk1](https://github.com/frankyhub/Stempel-lasern/blob/main/pic/lk1.png)
+
+<br>
 
 Wir stellen die Cut- und die Gravur Ebene ein.
 
+<br>
+
 ![lk2](https://github.com/frankyhub/Stempel-lasern/blob/main/pic/lk2.png)
+
+<br>
+
 
 Mit der Vorschau lässt sich das Ergebnis vorab überprüfen. Die dunkelen Flächen werden gelasert.
 
+<br>
+
 ![lk3](https://github.com/frankyhub/Stempel-lasern/blob/main/pic/lk3.png)
+
+<br>
 
 ---
 
 ## 3D-Druck
 Mit einem 3D-Drucker erstellen wir den Stempelkörper. Mit dem **Openscad** Programm  "Stempel_Auswahl.scad" stehen uns 3 unterschiedliche Stempelformen zur Verfügung:
 
+<br>
+
 ![3D](https://github.com/frankyhub/Stempel-lasern/blob/main/pic/3d.png)
+
+<br>
+
 
 Für das runde Stempelmotiv wählen wird die runde Vorlage.
 
+<br>
+
 ![3D2](https://github.com/frankyhub/Stempel-lasern/blob/main/pic/3d2.png)
+
+<br>
 
 Jetzt können wir die 3D-Zeichnung slicen und drucken
 
+<br>
+
 ![3D2](https://github.com/frankyhub/Stempel-lasern/blob/main/pic/3dsl1.png)
+
+<br>
+
 
 ---
 
 ## Montage
 Nach dem Lasern des Stempelgummis und dem Erstellen des Stempelkörpers erfolgt die Montage. Den Stempelgummi kleben wir mit Sekundenkleber auf den Stempelkörper. Dabei beachten wir die Lage des Stempelgummis. 
 Die Vorderseite des Stempelkörpers ist markiert.
+
+<br>
 
 ![3Dm](https://github.com/frankyhub/Stempel-lasern/blob/main/pic/3dm.png)
 
