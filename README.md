@@ -2,15 +2,15 @@
 
 Inhaltsverzeichnis
 
-[Einleitung](https://github.com/frankyhub/Stempel-lasern/edit/main/README.md#Einleitung)
+[Einleitung](https://github.com/frankyhub/Stempel-lasern/blob/main/README.md#Einleitung)
 
-[Inkscape](https://github.com/frankyhub/Stempel-lasern/edit/main/README.md#Inkscape)
+[Inkscape](https://github.com/frankyhub/Stempel-lasern/eblob/main/README.md#Inkscape)
 
-[Lasercutter](https://github.com/frankyhub/Stempel-lasern/edit/main/README.md#Lasercutter)
+[Lasercutter](https://github.com/frankyhub/Stempel-lasern/blob/main/README.md#Lasercutter)
 
-[3D-Druck](https://github.com/frankyhub/Stempel-lasern/edit/main/README.md#Incskape)
+[3D-Druck](https://github.com/frankyhub/Stempel-lasern/blob/main/README.md#Incskape)
 
-[Montae](https://github.com/frankyhub/Stempel-lasern/edit/main/README.md#Montage)
+[Montae](https://github.com/frankyhub/Stempel-lasern/blob/main/README.md#Montage)
 
 ----------
 
