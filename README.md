@@ -93,7 +93,7 @@ Jetzt können wir die 3D-Zeichnung slicen und drucken
 ---
 
 ## Montage
-Nach dem Lasern des Stempelgummis und dem erstellen des Stempelkörpers erfolgt die Montage. Den Stempelgummi kleben wir mit Sekundenkleber auf den Stempelkörper. Dabei beachten wir die Lage des Stempelgummis. 
+Nach dem Lasern des Stempelgummis und dem Erstellen des Stempelkörpers erfolgt die Montage. Den Stempelgummi kleben wir mit Sekundenkleber auf den Stempelkörper. Dabei beachten wir die Lage des Stempelgummis. 
 Die Vorderseite des Stempelkörpers ist markiert.
 
 ![3Dm](https://github.com/frankyhub/Stempel-lasern/blob/main/pic/3dm.png)
