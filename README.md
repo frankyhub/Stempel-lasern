@@ -1,3 +1,4 @@
+<a name="oben"></a 
 # Stempel lasern
 
 Inhaltsverzeichnis
@@ -98,8 +99,11 @@ Die Vorderseite des Stempelkörpers ist markiert.
 
 ![3Dm](https://github.com/frankyhub/Stempel-lasern/blob/main/pic/3dm.png)
 
-Nach oben
-[Einleitung](https://github.com/frankyhub/Stempel-lasern/blob/main/README.md#Einleitung)
+
+
+<div style="position:absolute; left:2cm; ">   -->
+<ol class="breadcrumb" style="border-top: 2px solid black;border-bottom:2px solid black; height: 45px; width: 900px;"> <p align="center"><a href="#oben">nach oben</a></p></ol>
+
 
  
 ---
