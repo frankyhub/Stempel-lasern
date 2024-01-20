@@ -58,27 +58,35 @@ Wenn wir jetzt in das Zeichnen-Fenster wechseln, sehen wir das Bitmap und die ve
 
 Wählen wir jetzt das "Bearbeiten der Knoten" Werkzeug aus oder betätigen die  N  -Taste, können wir die Pfade bearbeiten oder die Vektor-Grafik speichen und in andere Programme (Lightburn, Easy Cut Studio...) importieren.
 
-!(Bild7)[bild7.png)
-
-Wenn die Füllung entfernt wird, sieht man den Umriss der Zeichnung.
-
-!(Bild8)[bild8.png)
-
-
 ---
 
 ## Lasercutter
 Jetzt impotieren wir die Vektorgrafik in die Lasercutter Software **Lightburn**. In Lightburn werden jetzt die Ebenen Schneiden und Gravieren festgelegt mit den jeweiligen Parameter Geschwindigkeit und Leistung festgelegt. 
 
+![lk1](https://github.com/frankyhub/Stempel-lasern/blob/main/pic/lk1.png)
+
+Wir stellen die Cut- und die Gravur Ebene ein.
+
+![lk2](https://github.com/frankyhub/Stempel-lasern/blob/main/pic/lk2.png)
+
+Mit der Vorschau lässt sich das Ergebnis vorab überprüfen.
+
+![lk3](https://github.com/frankyhub/Stempel-lasern/blob/main/pic/lk3.png)
 
 ---
 
 ## 3D-Druck
 Mit einem 3D-Drucker erstellen wir den Stempelkörper. Mit dem Programm **Openscad** stehen uns 3 unterschiedliche Stempelformen zur Verfügung:
 
-!(3D)[3d.png) 
+![3D](https://github.com/frankyhub/Stempel-lasern/blob/main/pic/3d.png)
 
+Für das runde Stempelmotiv wählen wird die runde Vorlage.
 
+![3D2](https://github.com/frankyhub/Stempel-lasern/blob/main/pic/3d2.png)
+
+Jetzt können wir die 3D-Zeichnung slicen und drucken
+
+![3D2](https://github.com/frankyhub/Stempel-lasern/blob/main/pic/3dsl1.png)
 
 ---
 
@@ -86,8 +94,8 @@ Mit einem 3D-Drucker erstellen wir den Stempelkörper. Mit dem Programm **Opensc
 Nach dem Lasern des Stempelgummis und dem erstellen des Stempelkörpers erfolgt die Montage. Den Stempelgummi kleben wir mit Sekundenkleber auf den Stempelkörper. Dabei beachten wir die Lage des Stempelgummis. 
 Die Vorderseite des Stempelkörpers ist markiert.
 
- !(3Dm)[3dm.png)
+![3Dm](https://github.com/frankyhub/Stempel-lasern/blob/main/pic/3dm.png)
  
 ---
 
-Ein Stempel wird in mehreren Arbeitsschritten erstellt:
+
