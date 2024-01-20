@@ -41,7 +41,7 @@ Inkscape beinhaltet ein Werkzeug, mit dem sich ein Bitmap-Bild in ein Pfad-Eleme
 Lade oder importiere das Bild, das du vektorisieren willst mit "Datei + Impotieren" und betästige mit "Öffnen".
 Die Grundeinstellungen können mit OK übernommen werden.
 
-!([[bild1.png](https://github.com/frankyhub/Stempel-lasern/blob/main/pic/bild1.png)
+![bild1.png](https://github.com/frankyhub/Stempel-lasern/blob/main/pic/bild1.png)
 
 Das Bitmap wird geladen:
 
