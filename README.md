@@ -40,6 +40,7 @@ Mit dem Vektor-Zeichenprogramm Inkscape wird die Stempelvorlage erstellt, die z.
    <br>  
 
 ![stempel1.png](https://github.com/frankyhub/Stempel-lasern/blob/main/pic/stempel1.png)
+
 <br>
 
 Möchte man einen Stempel mit einem Bild erstellen, wird das Bild in Inkscape importiert. 
