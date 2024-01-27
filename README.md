@@ -3,15 +3,15 @@
 
 Inhaltsverzeichnis
 
-[Einleitung](https://github.com/frankyhub/Stempel-lasern/blob/main/README.md#Einleitung)
+[Einleitung](/README.md#Einleitung)
 
-[Inkscape](https://github.com/frankyhub/Stempel-lasern/blob/main/README.md#Inkscape)
+[Inkscape](/README.md#Inkscape)
 
-[Lasercutter](https://github.com/frankyhub/Stempel-lasern/blob/main/README.md#Lasercutter)
+[Lasercutter](/README.md#Lasercutter)
 
-[3D-Druck](https://github.com/frankyhub/Stempel-lasern/blob/main/README.md#3D-Druck)
+[3D-Druck](/README.md#3D-Druck)
 
-[Montage](https://github.com/frankyhub/Stempel-lasern/blob/main/README.md#Montage)
+[Montage](/README.md#Montage)
 
 ----------
 
@@ -39,7 +39,7 @@ Mit dem Vektor-Zeichenprogramm Inkscape wird die Stempelvorlage erstellt, die z.
 
    <br>  
 
-![stempel1.png](https://github.com/frankyhub/Stempel-lasern/blob/main/pic/stempel1.png)
+![stempel1.png](/pic/stempel1.png)
 
 <br>
 
@@ -50,7 +50,7 @@ Die Grundeinstellungen können mit OK übernommen werden.
 
 <br>
 
-![bild1.png](https://github.com/frankyhub/Stempel-lasern/blob/main/pic/bild1.png)
+![bild1.png](/pic/bild1.png)
 
 <br>
 
@@ -58,7 +58,7 @@ Das Bitmap wird geladen:
 
 <br>
 
-![bild2.png](https://github.com/frankyhub/Stempel-lasern/blob/main/pic/bild2a.png))
+![bild2.png](/pic/bild2a.png))
 
 <br>
 
@@ -66,7 +66,7 @@ Das Bitmap markieren und mit "Pfad Bitmap nachzeichnen" oder mit  Umschalt  +  A
 
 <br>
 
-![Bild2](https://github.com/frankyhub/Stempel-lasern/blob/main/pic/bild2.png)
+![Bild2](/pic/bild2.png)
 
 <br>
 
@@ -75,7 +75,7 @@ Wenn wir jetzt in das Zeichnen-Fenster wechseln, sehen wir das Bitmap und die ve
 
 <br>
 
-![Bild3](https://github.com/frankyhub/Stempel-lasern/blob/main/pic/bild4.png)
+![Bild3](/pic/bild4.png)
 
 <br>
 
@@ -88,7 +88,7 @@ Jetzt impotieren wir die Vektorgrafik in die Lasercutter Software **Lightburn**.
 
 <br>
 
-![lk1](https://github.com/frankyhub/Stempel-lasern/blob/main/pic/lk1.png)
+![lk1](/pic/lk1.png)
 
 <br>
 
@@ -96,7 +96,7 @@ Wir stellen die Cut- und die Gravur Ebene ein.
 
 <br>
 
-![lk2](https://github.com/frankyhub/Stempel-lasern/blob/main/pic/lk2.png)
+![lk2](/pic/lk2.png)
 
 <br>
 
@@ -105,7 +105,7 @@ Mit der Vorschau lässt sich das Ergebnis vorab überprüfen. Die dunkelen Fläc
 
 <br>
 
-![lk3](https://github.com/frankyhub/Stempel-lasern/blob/main/pic/lk3.png)
+![lk3](/pic/lk3.png)
 
 <br>
 
@@ -116,7 +116,7 @@ Mit einem 3D-Drucker erstellen wir den Stempelkörper. Mit dem **Openscad** Prog
 
 <br>
 
-![3D](https://github.com/frankyhub/Stempel-lasern/blob/main/pic/3d.png)
+![3D](/pic/3d.png)
 
 <br>
 
@@ -125,7 +125,7 @@ Für das runde Stempelmotiv wählen wird die runde Vorlage.
 
 <br>
 
-![3D2](https://github.com/frankyhub/Stempel-lasern/blob/main/pic/3d2.png)
+![3D2](/pic/3d2.png)
 
 <br>
 
@@ -133,7 +133,7 @@ Jetzt können wir die 3D-Zeichnung slicen und drucken
 
 <br>
 
-![3D2](https://github.com/frankyhub/Stempel-lasern/blob/main/pic/3dsl1.png)
+![3D2](/pic/3dsl1.png)
 
 <br>
 
@@ -146,7 +146,7 @@ Die Vorderseite des Stempelkörpers ist markiert.
 
 <br>
 
-![3Dm](https://github.com/frankyhub/Stempel-lasern/blob/main/pic/3dm.png)
+![3Dm](/pic/3dm.png)
 
 
 
