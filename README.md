@@ -142,7 +142,7 @@ Jetzt können wir die 3D-Zeichnung slicen und drucken
 
 <br>
 
-<img src="pic/3ds11.png" width="500"> 
+<img src="pic/3dsl1.png" width="500"> 
 <br> <br>
 
 
