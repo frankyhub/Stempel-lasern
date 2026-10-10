@@ -55,9 +55,9 @@ Mit dem Vektor-Zeichenprogramm Inkscape wird die Stempelvorlage erstellt, die z.
 
    <br>  
 
-![stempel1.png](/pic/stempel1.png)
+<img src="pic/stempel1.png" width="800"> 
+<br> <br>
 
-<br>
 
 Möchte man einen Stempel mit einem Bild erstellen, wird das Bild in Inkscape importiert. 
 Inkscape beinhaltet ein Werkzeug, mit dem sich ein Bitmap-Bild in ein Pfad-Element umwandeln lässt. Generell kann man sagen, je höher der Anteil dunkler Pixel im Bitmap ist, desto höher ist die Vektorisierungsleistung.
@@ -66,34 +66,32 @@ Die Grundeinstellungen können mit OK übernommen werden.
 
 <br>
 
-![bild1.png](/pic/bild1.png)
+<img src="pic/bild1.png" width="500"> 
+<br> <br>
 
-<br>
 
 Das Bitmap wird geladen:
 
 <br>
+<img src="pic/bild2a.png" width="500"> 
+<br> <br>
 
-![bild2.png](/pic/bild2a.png))
 
-<br>
 
 Das Bitmap markieren und mit "Pfad Bitmap nachzeichnen" oder mit  Umschalt  +  Alt  +  B  -Taste das Fenster Bitmap nachzeichnen öffnen.
 
 <br>
 
-![Bild2](/pic/bild2.png)
-
-<br>
-
+<img src="pic/bild2.png" width="800"> 
+<br> <br>
 
 Wenn wir jetzt in das Zeichnen-Fenster wechseln, sehen wir das Bitmap und die vektorisierte Grafik.
 
 <br>
 
-![Bild3](/pic/bild4.png)
+<img src="pic/bild4.png" width="500"> 
+<br> <br>
 
-<br>
 
 Wählen wir jetzt das "Bearbeiten der Knoten" Werkzeug aus oder betätigen die  N  -Taste, können wir die Pfade bearbeiten oder die Vektor-Grafik speichen und in andere Programme (Lightburn, Easy Cut Studio...) importieren.
 
@@ -104,26 +102,23 @@ Jetzt impotieren wir die Vektorgrafik in die Lasercutter Software **Lightburn**.
 
 <br>
 
-![lk1](/pic/lk1.png)
+<img src="pic/lk1.png" width="800"> 
+<br> <br>
 
-<br>
 
 Wir stellen die Cut- und die Gravur Ebene ein.
 
 <br>
 
-![lk2](/pic/lk2.png)
-
-<br>
+<img src="pic/lk2.png" width="800"> 
+<br> <br>
 
 
 Mit der Vorschau lässt sich das Ergebnis vorab überprüfen. Die dunkelen Flächen werden gelasert.
 
 <br>
-
-![lk3](/pic/lk3.png)
-
-<br>
+<img src="pic/lk3.png" width="500"> 
+<br> <br>
 
 ---
 
@@ -132,26 +127,23 @@ Mit einem 3D-Drucker erstellen wir den Stempelkörper. Mit dem **Openscad** Prog
 
 <br>
 
-![3D](/pic/3d.png)
-
-<br>
+<img src="pic/3d.png" width="800"> 
+<br> <br>
 
 
 Für das runde Stempelmotiv wählen wird die runde Vorlage.
 
 <br>
 
-![3D2](/pic/3d2.png)
-
-<br>
+<img src="pic/3d2.png" width="500"> 
+<br> <br>
 
 Jetzt können wir die 3D-Zeichnung slicen und drucken
 
 <br>
 
-![3D2](/pic/3dsl1.png)
-
-<br>
+<img src="pic/3ds11.png" width="500"> 
+<br> <br>
 
 
 ---
@@ -161,8 +153,8 @@ Nach dem Lasern des Stempelgummis und dem Erstellen des Stempelkörpers erfolgt 
 Die Vorderseite des Stempelkörpers ist markiert.
 
 <br>
-
-![3Dm](/pic/3dm.png)
+<img src="pic/3dm.png" width="500"> 
+<br> <br>
 
 
 
